@@ -24,7 +24,7 @@ Projeto desenvolvido durante o NLW da Rocketseat, React native, integração com
 * Realizar login com o discord.
 * CRUD(create, read, update, delete) de organização de partidas.
 * Filtros para as partidas.
-* Lista de jogados.
+* Lista de jogadores.
 * Compartilhar convites de partidas.
 
 
@@ -38,8 +38,9 @@ Projeto desenvolvido durante o NLW da Rocketseat, React native, integração com
 ## 🚀 Images
 ### Screenshots
 <p float="left">
-  <img src="./screenshots/main.png" width="500" />
-  <img src="./screenshots/newRoom.png" width="500" /> 
-  <img src="./screenshots/room.png" width="500" />
-  <img src="./screenshots/adminRoom.png" width="500" />
+  <img src="./screenshots/login.png" width="300" />
+  <img src="./screenshots/home.png" width="300" />
+  <img src="./screenshots/listAppointments.png" width="300" /> 
+  <img src="./screenshots/listChannel.png" width="300" />
+  <img src="./screenshots/createAppointment.png" width="300" />
 </p>
